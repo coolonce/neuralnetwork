@@ -1,0 +1,12 @@
+c:\users\вадим\documents\visual studio 2015\Projects\OneLayerNeuronNetwork\OneLayerNeuronNetwork\bin\Debug\OneLayerNeuronNetwork.exe.config
+c:\users\вадим\documents\visual studio 2015\Projects\OneLayerNeuronNetwork\OneLayerNeuronNetwork\bin\Debug\OneLayerNeuronNetwork.exe
+c:\users\вадим\documents\visual studio 2015\Projects\OneLayerNeuronNetwork\OneLayerNeuronNetwork\bin\Debug\OneLayerNeuronNetwork.pdb
+c:\users\вадим\documents\visual studio 2015\Projects\OneLayerNeuronNetwork\OneLayerNeuronNetwork\obj\Debug\OneLayerNeuronNetwork.Form1.resources
+c:\users\вадим\documents\visual studio 2015\Projects\OneLayerNeuronNetwork\OneLayerNeuronNetwork\obj\Debug\OneLayerNeuronNetwork.Properties.Resources.resources
+c:\users\вадим\documents\visual studio 2015\Projects\OneLayerNeuronNetwork\OneLayerNeuronNetwork\obj\Debug\OneLayerNeuronNetwork.csproj.GenerateResource.Cache
+c:\users\вадим\documents\visual studio 2015\Projects\OneLayerNeuronNetwork\OneLayerNeuronNetwork\obj\Debug\OneLayerNeuronNetwork.exe
+c:\users\вадим\documents\visual studio 2015\Projects\OneLayerNeuronNetwork\OneLayerNeuronNetwork\obj\Debug\OneLayerNeuronNetwork.pdb
+C:\Users\Вадим\documents\visual studio 2015\Projects\OneLayerNeuronNetwork\OneLayerNeuronNetwork\obj\Debug\Interop.InteropExtensionLib.dll
+C:\Users\Вадим\documents\visual studio 2015\Projects\OneLayerNeuronNetwork\OneLayerNeuronNetwork\obj\Debug\OneLayerNeuronNetwork.csproj.ResolveComReference.cache
+C:\Users\Вадим\documents\visual studio 2015\Projects\OneLayerNeuronNetwork\OneLayerNeuronNetwork\obj\Debug\OneLayerNeuronNetwork.Form2.resources
+C:\Users\Вадим\documents\visual studio 2015\Projects\OneLayerNeuronNetwork\OneLayerNeuronNetwork\obj\Debug\OneLayerNeuronNetwork.csprojResolveAssemblyReference.cache
